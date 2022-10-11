@@ -4,7 +4,7 @@ This repository contains code to train a Graph Neural Network to predict
 whether a given bee in a hive survives a given number of days into the future
 using age, location, and relational information about interactions between
 pairs of bees. Used libraries include **PyTorch Geometric**, **PyTorch Lightning**,
-and **Optuna**. A Jupyter Notebook version is [available on Kaggle](https://www.kaggle.com/code/dariokonopatzki/bee-survival-graph-neural-network).
+and **Optuna**.
 
 # How to run the scripts
 
