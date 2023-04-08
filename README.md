@@ -21,7 +21,7 @@ and **Optuna**.
 ## On Kaggle
 
 1. Create a Kaggle dataset called 'your-user-name/bees-source' containing all the scripts in ```./source/```.
-2. Create a Kaggle script from  ```./source/experiments.py```, and add both your newly created dataset from step 1., and [the bees dataset](https://www.kaggle.com/datasets/dariokonopatzki/honey-bee-temporal-social-network) as inputs.
+2. Create a Kaggle script from  ```./source/experiments.py```, and add both your newly created dataset from step 1., and [the bees dataset](https://zenodo.org/record/4438013) as inputs.
 3. Run the Kaggle script created in 2.
 
 The MLP and GNN code were both tested to run with **Python 3.7.12** on GPU. In addition, the MLP code was tested to run with Python **3.9.12** on CPU.
